@@ -1,4 +1,4 @@
-# backup.sh
+
 OG_DIR="/var/log/backup_script"
 
 LOG_FILE="$LOG_DIR/history.log"
